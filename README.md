@@ -30,22 +30,22 @@
 
 码云同步镜像请访问 [Gitee/MiyueSC Process Designer](https://miyuesc.gitee.io/process-designer/)
 
-> 🚀🚀🚀
-> 
-> **Vite + Vue 3 + pinia + naiveUI 新项目，取消了window命名空间保存bpmn实例的方式，并进行了大部分显示自定义功能，完成了 bpmn.js 基本依赖的 typescript 类型声明。**
+> 🚀🚀🚀 墙裂推荐！！！
+>
+> **Vite + Vue 3 + pinia + naiveUI 新项目，取消了window命名空间保存bpmn实例的方式，并进行了大部分显示自定义功能，完成了 bpmn.js 基本依赖的 typescript 类型声明。React 项目也可以参考自定义插件和属性更新方式**
 >
 > **体验请访问：[vite-vue-bpmn-process](https://miyuesc.github.io/vite-vue-bpmn-process/)**
 >
 > **国内同步体验地址：[vite-vue-bpmn-process](https://miyuesc.gitee.io/vite-vue-bpmn-process/)**
-> 
-> 付费咨询请加微信（毕竟生活太累了😩😩😩）
-> 
-> 源码地址：[vite-vue-bpmn-process](https://github.com/moon-studio/vite-vue-bpmn-process)
+>
+> **源码地址：[github: vite-vue-bpmn-process](https://github.com/moon-studio/vite-vue-bpmn-process), [gitee: vite-vue-bpmn-process](https://gitee.com/MiyueSC/vite-vue-bpmn-process)**
+>
+> **付费咨询请加微信（二维码见下方赞助，毕竟生活太苦了😩😩😩）**
 
 
 ### 友情链接
 
-1. Me: [Bpmn.js 中文文档、json描述文件说明等](https://juejin.cn/column/6964382482007490590)
+1. Me: [Bpmn.js 全面进阶指南](https://juejin.cn/column/6964382482007490590)
 2. Yiuman: 低代码平台 [citrus](https://github.com/Yiuman/citrus) ，已集成 activiti7 工作流引擎后端部分
 3. [霖呆呆（掘金五级大佬）](https://juejin.cn/user/360295513463912): [《全网最详bpmn.js教材目录》](https://juejin.cn/post/6844904017567416328)，[关于bpmn.js交流群的说明](https://juejin.cn/post/6844904041026158599)
 4. PL-FE: [Bpmn Document](https://github.com/PL-FE/bpmn-doc)
